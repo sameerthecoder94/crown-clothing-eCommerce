@@ -8,3 +8,4 @@
 #### Routing + React-Router
 - __Lession 5__: Adding React-Router
 - __Lesson 6__: Setting up Homepage `<Home />`
+- __Lesson 7__: React Router `<Outlet />` for nested route
