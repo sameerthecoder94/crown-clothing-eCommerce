@@ -33,3 +33,6 @@
     ```
 - __Lession 11__: Introducing Firestore Data Models
 - __Lession 12__: Setting Up User Documents
+- __Lesson 13__: Two ways of signIn,
+    - signInWithPopup: sign in with google popup ✅
+    - SignInWithRedirect: sign in with google redirect
