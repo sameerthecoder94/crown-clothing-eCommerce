@@ -10,3 +10,6 @@
 - __Lesson 6__: Setting up Homepage `<Home />`
 - __Lesson 7__: React Router `<Outlet />` for nested route
 - __Lesson 8__: React Router Link `<Link />` 
+
+#### Authentication + Firebase
+- __Lession 9__: Setting Up Frirebase
