@@ -31,3 +31,5 @@
 
     const app = initializeApp(firebaseConfig);
     ```
+- __Lession 11__: Introducing Firestore Data Models
+- __Lession 12__: Setting Up User Documents
