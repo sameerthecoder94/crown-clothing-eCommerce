@@ -36,3 +36,4 @@
 - __Lesson 13__: Two ways of signIn,
     - signInWithPopup: sign in with google popup ✅
     - SignInWithRedirect: sign in with google redirect
+- __Lesson 14__: SignUp Form `<SignUpForm />`
