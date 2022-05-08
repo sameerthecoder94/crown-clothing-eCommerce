@@ -37,3 +37,4 @@
     - signInWithPopup: sign in with google popup ✅
     - SignInWithRedirect: sign in with google redirect
 - __Lesson 14__: SignUp Form `<SignUpForm />`
+- __Lession 15__: Generalizing Form Inputs `<FormInput />`
