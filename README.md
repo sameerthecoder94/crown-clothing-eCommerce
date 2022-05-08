@@ -40,3 +40,4 @@
 - __Lesson 15__: Generalizing Form Inputs `<FormInput />`
 - __Lesson 16__: Custom Button `<Button />`
 - __Lesson 17__: SignIn Form `<SignInForm />`
+- __Lesson 18__: Finishing Authentication Page `<Authentication />`
