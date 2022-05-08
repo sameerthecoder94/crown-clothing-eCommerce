@@ -41,3 +41,6 @@
 - __Lesson 16__: Custom Button `<Button />`
 - __Lesson 17__: SignIn Form `<SignInForm />`
 - __Lesson 18__: Finishing Authentication Page `<Authentication />`
+
+#### React Context for State Management
+- __Lesson 19__: Setting Up React Context/User Context
