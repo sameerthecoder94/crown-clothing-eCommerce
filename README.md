@@ -1,17 +1,17 @@
 # Crown Clothing
-### Capstone Project Flow
-#### Intro + Setup
+## Capstone Project Flow
+### Intro + Setup
 - __Lesson 1__: Setup with CRA, removed CRA code and added initial categories
 - __Lesson 2__: Setting up Categories
 - __Lesson 3__: Adding SASS
 - __Lesson 4__: Spliting out cart-item into its own component
-#### Routing + React-Router
+### Routing + React-Router
 - __Lesson 5__: Adding React-Router
 - __Lesson 6__: Setting up Homepage `<Home />`
 - __Lesson 7__: React Router `<Outlet />` for nested route
 - __Lesson 8__: React Router Link `<Link />` 
 
-#### Authentication + Firebase
+### Authentication + Firebase
 - __Lesson 9__: Setting Up Firebase
 - __Lesson 10__: Authenticating with Firebase
 - __Note__:
@@ -42,6 +42,9 @@
 - __Lesson 17__: SignIn Form `<SignInForm />`
 - __Lesson 18__: Finishing Authentication Page `<Authentication />`
 
-#### React Context for State Management
+### React Context for State Management
 - __Lesson 19__: Setting Up React Context/User Context
 - __Lesson 20__: Signing Out
+
+### Observer Pattern
+- __Lesson 21__: `onAuthStateChanged` Observer Pattern from Firebase Auth API 🔥
