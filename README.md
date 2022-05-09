@@ -44,3 +44,4 @@
 
 #### React Context for State Management
 - __Lesson 19__: Setting Up React Context/User Context
+- __Lesson 20__: Signing Out
